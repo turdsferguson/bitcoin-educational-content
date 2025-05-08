@@ -1,21 +1,21 @@
 ---
 name: Oppdater din nettbaserte sikkerhet
-goal: Oppdater passord og personlig datahåndtering. Opprett en sikkerhetskopi, beskytt mot hackere og øk bevisstheten om masseovervåkning.
+goal: Oppdatere passord og personlig datahåndtering. Opprette en sikkerhetskopi, beskytte mot hackere og øke bevisstheten om masseovervåkning.
 objectives:
   - Oppdatering om håndtering av personlige data og verktøy som forbedrer din sikkerhet.
   - Implementer en sikker og brukervennlig passordbehandler.
   - Implementer tofaktorautentisering for å styrke sikkerheten og minimere risikoen for hacking.
 ---
 
-# En reise mot å beskytte dine data
+# En reise mot beskyttelse av dine data
 
-Velkommen alle sammen til dette opplæringsprogrammet dedikert til digital sikkerhet. Denne opplæringen er designet for å være tilgjengelig for alle, så ingen forkunnskaper i datavitenskap er nødvendig. Vårt hovedmål er å gi dere kunnskapen og ferdighetene som er nødvendige for å navigere i den digitale verden på en tryggere og mer privat måte.
+Velkommen til dette kurset i digital sikkerhet. Denne opplæringen er designet for å være tilgjengelig for alle, så ingen forkunnskaper i datavitenskap er nødvendig. Vårt hovedmål er å gi dere kunnskapen og ferdighetene som er nødvendige for å navigere i den digitale verden på en tryggere og mer privat måte.
 
 Dette vil involvere implementering av flere verktøy som en sikker e-posttjeneste, et verktøy for bedre håndtering av passordene dine, og ulike programvarer for å sikre dine nettaktiviteter.
 
-I denne opplæringen sikter vi ikke mot å gjøre deg til en ekspert, anonym eller usårbar, da dette er umulig. I stedet tilbyr vi deg noen enkle og tilgjengelige løsninger for å starte transformasjonen av dine nettvaner og gjenvinne kontrollen over din digitale suverenitet.
+I dette kurset sikter vi ikke mot å gjøre deg til en ekspert, anonym eller usårbar, da dette er umulig. I stedet tilbyr vi deg noen enkle og tilgjengelige løsninger for å starte transformasjonen av dine nettvaner og gjenvinne kontrollen over din digitale suverenitet.
 
-Bidragsyterteam:
+Bidragsytere:
 Muriel; design
 Rogzy Noury & Fabian; produksjon
 Théo; bidrag
@@ -30,9 +30,9 @@ Théo; bidrag
 
 <chapterId>2f3d005d-8b49-5a3f-b90d-94c11f613407</chapterId>
 
-**Mål: Oppdater dine sikkerhetsferdigheter!**
+**Mål: Oppdatere dine sikkerhetsferdigheter!**
 
-Velkommen alle sammen til dette opplæringsprogrammet dedikert til digital sikkerhet. Denne opplæringen er designet for å være tilgjengelig for alle, så ingen forkunnskaper i datavitenskap er nødvendig. Vårt hovedmål er å gi dere kunnskapen og ferdighetene som er nødvendige for å navigere i den digitale verden på en tryggere og mer privat måte.
+Velkommen til dette kurset i digital sikkerhet. Denne opplæringen er designet for å være tilgjengelig for alle, så ingen forkunnskaper i datavitenskap er nødvendig. Vårt hovedmål er å gi dere kunnskapen og ferdighetene som er nødvendige for å navigere i den digitale verden på en tryggere og mer privat måte.
 
 Dette vil involvere implementering av flere verktøy som en sikker e-posttjeneste, et verktøy for bedre håndtering av passordene dine, og ulike programvarer for å sikre dine nettaktiviteter.
 
